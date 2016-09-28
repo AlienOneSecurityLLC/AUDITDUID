@@ -12,7 +12,7 @@ All solutions should be subject to public scrutiny, and peer review.
 '''
 ##########
 
-__author__ = "Justin Jessup & Adam Reber"
+__author__ = "Justin Jessup"
 
 import os, shutil, glob, datetime
 
